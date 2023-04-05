@@ -1,9 +1,6 @@
 import math
 import wave
 import struct
-import sys, random, argparse
-import numpy as np
-import time
 
 from configparser import ConfigParser
 from pydub import AudioSegment
