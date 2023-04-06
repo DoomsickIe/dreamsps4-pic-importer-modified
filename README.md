@@ -10,9 +10,10 @@ This tool (originally made by coynem, go check him out) is used to import pictur
 pip install -r requirements.txt
 ```
 
-* Put any pictures you want to import into the `Pictures` directory. This is the only place it looks as of now, but I may change that later. 
 * Run `Picture Encoder.py`
-* Follow instructions printed in console
+* Specify input image by passing a path
+* Tweak settings until you are happy
+* Click `export` and wait for it to finish; folders will be created with segments of the output made for importing
 
 ### Importing image
 
