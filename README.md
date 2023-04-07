@@ -24,6 +24,3 @@ pip install -r requirements.txt
 * Bake all emitted objects once image is finished printing
 * Merge pixels into one painting
 * Save painting as new creation (optional)
-## Notes
-
-Configuration can be edited in `config.ini`
